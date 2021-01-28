@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # data source files
-.csv
+*.csv
